@@ -1,0 +1,7 @@
+secret.key
+password.json
+__pycache__/
+.venv/
+venv/
+.idea/
+*.iml
